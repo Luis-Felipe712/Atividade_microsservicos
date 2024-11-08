@@ -9,7 +9,7 @@ Código monolítico:
   > python sistema_monolitico.py
 
 Código microsserviços:
-  > cd Codigo_microsservicos
-  > python servico_produtos.py
-  > python servico_estoque.py
+> cd Codigo_microsservicos
+> > python servico_produtos.py
+> python servico_estoque.py
   
